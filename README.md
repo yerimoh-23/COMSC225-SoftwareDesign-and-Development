@@ -1,1 +1,1 @@
-# COMSC225-SoftwareDesign-and-Development
+# COMSC225-SoftwareDesign and Development
