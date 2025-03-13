@@ -1,0 +1,2 @@
+Snickers:CHOCOLATE,CARAMEL,PEANUTS
+Hershey kisses:CHOCOLATE
